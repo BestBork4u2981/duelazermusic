@@ -38,11 +38,6 @@ from .opus_loader import load_opus_lib
 from .constants import VERSION as BOTVERSION
 from .constants import DISCORD_MSG_CHAR_LIMIT, AUDIO_CACHE_PATH
 
-from PIL import ImageDraw
-from PIL import ImageFont
-from PIL import Image
-
-
 load_opus_lib()
 
 
