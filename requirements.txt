@@ -8,3 +8,6 @@ pillow
 aiohttp
 websockets
 chardet
+libopus-dev
+libffi-dev
+libsodium-dev
